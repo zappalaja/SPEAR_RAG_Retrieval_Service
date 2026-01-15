@@ -1,4 +1,4 @@
-# SPEAR_RAG_Retrieval_Service
+# SPEAR RAG Retrieval Service
 A FastAPI-based method of connecting the SPEAR Climate Chatbot to a persistent ChromaDB for RAG.
 
 This repository is designed to run in your Linux terminal. You can run this service as a background process if desired.
