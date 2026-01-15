@@ -8,6 +8,7 @@ By defualt, this FastAPI service will be availble on localhost 8002 after runnin
 ### How to Run
 
 1. Edit **`rag_service.py`** and **`start_rag_api.py`** as needed with proper pathways (to your ChromaDB and .py)
+   
 2. Make **`start_rag_api.py`** executable and run it like this in terminal:
    ```bash
    chmod +x start_rag_api.py
